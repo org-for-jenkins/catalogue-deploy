@@ -20,13 +20,9 @@ variable "environment" {
 }
 
 variable "zone_name" {
-  default = "daws76s.online"
+  default = "suresh.fun"
 }
 
 variable app_version {
   
-}
-
-variable "iam_instance_profile" {
-  default = "ShellScriptRoleForRoboshop"
 }
